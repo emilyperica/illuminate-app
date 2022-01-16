@@ -1,4 +1,5 @@
 # Illuminate: The health app made by women, for women.
+By Emily Perica, Anisha Vatti, Anna Leuprecht, Sophia Aslanidis
 ## Inspiration
 Determined to create a project that was able to make impactful change, my team and I sat and discussed together as a group our own lived experiences, thoughts, and opinions. We quickly realized the way that the lack of thorough sexual health education in our adolescence greatly impacted each of us as we made the transition to university. Furthermore, we began to really see how this kind of information wasn't readily available to female-identifying individuals (and others who would benefit from this information) in an accessible and digestible manner. We chose to name our idea 'Illuminate' as we are bringing light to a very important topic that has been in the dark for so long.
 
