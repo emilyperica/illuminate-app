@@ -12,3 +12,6 @@ We learned the fundamentals of the dart language to fully take advantage of Flut
 
 ## What's next for Illuminate
 In the future, we hope to add an interactive map component that will be able to show users where their local sexual health clinics are using a GPS system. 
+
+
+Find out more [here](https://devpost.com/software/illuminate-u54j7o).
